@@ -1,0 +1,505 @@
+Takipçi ID: 1
+[0]
+['neutral']
+2024-05-27 18:47:18
+
+Takipçi ID: 1
+[2, 25, 29, 60, 67, 74, 81, 116, 123, 130, 145]
+['neutral', 'fear', 'fear', 'neutral', 'neutral', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad']
+2024-05-27 18:48:34
+
+Takipçi ID: 1
+[0]
+['neutral']
+2024-05-27 18:52:16
+
+Takipçi ID: 1
+[1, 5, 11]
+['neutral', 'neutral', 'neutral']
+2024-05-27 19:10:11
+
+Takipçi ID: 1
+[33, 37, 41]
+['neutral', 'neutral', 'neutral']
+2024-05-27 19:14:41
+
+Takipçi ID: 1
+[0, 23, 27, 70, 74, 93, 112, 127]
+['sad', 'neutral', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-05-27 19:15:42
+
+Takipçi ID: 1
+[0, 4, 8, 12, 16, 20, 24, 28, 49]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'fear']
+2024-05-27 19:33:01
+
+Takipçi ID: 1
+[37]
+['neutral']
+2024-05-27 19:35:14
+
+Takipçi ID: 1
+[123, 127, 154, 158, 181, 185, 189, 193]
+['fear', 'sad', 'neutral', 'neutral', 'happy', 'fear', 'neutral', 'fear']
+2024-05-27 19:53:19
+
+Takipçi ID: 1
+[25, 33, 41, 49, 57, 65, 73]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-05-27 20:06:18
+
+Takipçi ID: 1
+[0, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88, 92, 96, 100, 104, 108, 112, 116]
+['neutral', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'neutral', 'fear', 'fear', 'fear', 'neutral', 'fear', 'fear', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-05-27 20:39:09
+
+Takipçi ID: 1
+[87, 95, 103, 111, 119, 127, 135, 143, 172, 180]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'angry', 'neutral', 'neutral', 'neutral']
+2024-05-27 20:40:21
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'fear', 'neutral']
+2024-05-27 20:54:30
+
+Takipçi ID: 1
+[58, 69, 73, 77, 81]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-05-27 21:36:53
+
+Takipçi ID: 1
+[2, 35, 43, 51, 59, 67, 75, 83, 91, 99, 107, 115, 123, 136]
+['angry', 'sad', 'neutral', 'sad', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'sad', 'sad', 'neutral']
+2024-05-27 21:49:45
+
+Takipçi ID: 1
+[26, 30, 34, 101, 105, 109, 113]
+['fear', 'fear', 'sad', 'sad', 'fear', 'fear', 'fear']
+2024-05-27 21:56:55
+
+Takipçi ID: 1
+[]
+[]
+2024-05-29 08:15:29
+
+Takipçi ID: 1
+[]
+[]
+2024-05-29 08:51:45
+
+Takipçi ID: 1
+[5, 12, 19, 26, 33, 40, 47]
+['neutral', 'neutral', 'happy', 'neutral', 'happy', 'neutral', 'neutral']
+2024-05-29 10:31:06
+
+Takipçi ID: 1
+[0, 3, 10]
+['fear', 'sad', 'sad']
+2024-05-29 10:33:52
+
+Takipçi ID: 1
+[0, 5, 12, 19, 25, 31, 38, 45, 52, 58, 63]
+['sad', 'sad', 'sad', 'sad', 'sad', 'neutral', 'sad', 'sad', 'sad', 'sad', 'sad']
+2024-05-29 13:03:17
+
+Takipçi ID: 1
+[]
+[]
+2024-05-29 13:32:17
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 20:55:03
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:02:05
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:07:24
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:08:33
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:09:50
+
+Takipçi ID: 1
+[0, 6, 13, 20, 25, 29, 33, 37, 41, 44, 47, 50, 53, 56, 59, 62, 65, 68, 71, 74, 77, 80, 83]
+['neutral', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'sad']
+2024-06-04 21:13:18
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:17:26
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:19:07
+
+Takipçi ID: 1
+[18, 25, 32, 39, 46, 53, 60, 67, 74, 81, 88, 95, 102, 109, 116, 123, 130, 137, 144, 151, 158, 165, 171, 175, 179, 183, 187, 191, 195, 199, 202, 205]
+['sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad']
+2024-06-04 21:20:52
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:24:02
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:37:29
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:39:59
+
+Takipçi ID: 1
+[0, 6, 13, 20, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123, 127, 131, 135, 139, 143, 147, 151, 155, 159, 163]
+['neutral', 'neutral', 'angry', 'sad', 'sad', 'fear', 'fear', 'neutral', 'fear', 'fear', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'neutral', 'happy', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral']
+2024-06-04 21:49:24
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:57:21
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:58:15
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 21:59:04
+
+Takipçi ID: 1
+[]
+[]
+2024-06-04 22:00:22
+
+Takipçi ID: 1
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+['fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-04 22:58:30
+
+Takipçi ID: 1
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]
+['happy', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'happy', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-04 23:33:50
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19]
+['fear', 'neutral', 'happy', 'happy', 'neutral']
+2024-06-07 00:15:00
+
+Takipçi ID: 1
+[5, 12, 19, 26, 33, 40, 47, 54, 61, 68, 75, 82, 89, 96, 103, 110, 117]
+['neutral', 'neutral', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 00:17:01
+
+Takipçi ID: 1
+[3, 7, 11]
+['neutral', 'neutral', 'happy']
+2024-06-07 00:21:01
+
+Takipçi ID: 1
+[5, 12, 19, 26, 33, 40, 47, 55]
+['neutral', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 00:24:56
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'fear', 'fear', 'fear', 'fear']
+2024-06-07 00:31:32
+
+Takipçi ID: 1
+[3, 7, 11, 15]
+['neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 00:34:03
+
+Takipçi ID: 1
+[3, 7, 10, 13, 16, 19, 22, 25]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 00:35:24
+
+Takipçi ID: 1
+[3, 6, 10, 14, 18, 22, 26, 30, 34]
+['sad', 'neutral', 'fear', 'sad', 'fear', 'sad', 'happy', 'fear', 'fear']
+2024-06-07 00:39:49
+
+Takipçi ID: 1
+[2, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58, 61, 64]
+['neutral', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 01:18:08
+
+Takipçi ID: 1
+[5, 12, 19, 25, 32]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 01:32:39
+
+Takipçi ID: 1
+[5, 12, 19]
+['neutral', 'neutral', 'neutral']
+2024-06-07 01:33:59
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123, 127, 131, 135, 139, 143, 147, 151, 155, 159, 163, 167, 171, 174, 178, 181, 185, 189, 193, 197, 201, 204, 208]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'happy', 'sad', 'sad', 'sad', 'sad', 'fear', 'neutral', 'sad', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'happy', 'sad', 'sad', 'sad', 'happy', 'happy', 'angry', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'neutral']
+2024-06-07 17:46:56
+
+Takipçi ID: 1
+[3, 7, 11, 13, 17, 21]
+['sad', 'fear', 'neutral', 'fear', 'sad', 'neutral']
+2024-06-07 18:02:07
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123, 127, 131, 135, 139, 143, 147, 151, 155, 159, 163, 167, 171, 175, 179, 183, 187, 191, 195, 199, 203, 207]
+['happy', 'sad', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'sad', 'neutral', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'neutral', 'neutral', 'sad', 'fear', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 18:12:45
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 34, 37, 40, 43, 46, 49, 52, 55, 58, 61, 64, 67, 70, 73, 76, 79, 82, 85, 88, 91, 94, 97, 100, 103, 106, 109, 112, 115]
+['neutral', 'fear', 'neutral', 'sad', 'sad', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 18:24:10
+
+Takipçi ID: 1
+[]
+[]
+2024-06-07 18:25:13
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123, 127, 131, 135, 139, 143]
+['angry', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 18:27:36
+
+Takipçi ID: 1
+[3, 7, 11]
+['neutral', 'fear', 'neutral']
+2024-06-07 18:28:58
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-07 19:21:27
+
+Takipçi ID: 1
+[3, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58, 62, 66, 70, 74, 78, 82, 86, 90, 94, 98, 102]
+['neutral', 'neutral', 'fear', 'sad', 'sad', 'neutral', 'sad', 'sad', 'sad', 'neutral', 'sad', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'sad', 'neutral', 'sad', 'sad']
+2024-06-07 19:29:09
+
+Takipçi ID: 1
+[3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105, 108, 111, 114, 117, 120, 123, 126, 129]
+['neutral', 'neutral', 'neutral', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'neutral', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'sad', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral']
+2024-06-07 19:30:03
+
+Takipçi ID: 1
+[3, 7, 11]
+['fear', 'neutral', 'neutral']
+2024-06-08 12:31:37
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123]
+['sad', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-08 12:40:57
+
+Takipçi ID: 1
+[2, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58, 62, 66, 70, 74, 78, 82, 86, 90, 94, 98, 102, 106, 110, 114, 118, 122, 126, 130, 134, 138, 142, 146, 150, 154, 157, 161, 165, 169, 173]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral']
+2024-06-08 12:47:02
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105, 108, 111, 114, 117, 120, 123]
+['fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-08 12:57:59
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 42, 45, 48, 52, 55, 58, 61, 65, 69, 73, 77, 81, 85, 89, 93, 97, 101]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-08 12:59:47
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123, 127, 131, 135, 139, 143, 147, 151, 155, 159, 163, 167, 171, 175, 179, 182, 185, 189]
+['sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-08 13:11:13
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111]
+['fear', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-08 13:14:06
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123, 127, 130, 133, 137, 140, 143, 146, 149, 153, 157, 161, 165, 169, 173, 177, 181, 185, 189, 193, 197, 200, 204, 208, 212, 216]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-08 13:38:19
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 98, 101, 104, 107, 110, 113, 116, 119, 122, 125, 128, 131, 134, 137, 140, 143, 146, 149, 152, 155, 158, 161, 164, 167, 170, 173, 176, 179, 182, 185, 188, 191]
+['neutral', 'angry', 'sad', 'sad', 'neutral', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'angry', 'sad', 'angry', 'angry', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'sad', 'angry', 'sad', 'sad', 'angry', 'angry', 'angry', 'angry', 'angry', 'angry', 'angry']
+2024-06-08 13:41:07
+
+Takipçi ID: 1
+[3, 7, 11, 15, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 58, 61, 64, 67, 70, 73, 76, 79, 82, 85, 88, 91, 94, 97, 100, 103, 106, 109, 112, 115, 118, 121, 124, 127, 130, 133, 136, 139, 142, 145, 148, 151, 154, 157, 160, 163, 166, 169, 172, 175, 178, 181, 184, 187, 190, 193, 196, 199, 202, 205, 208, 211, 214, 217, 220, 223]
+['neutral', 'sad', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-08 13:46:01
+
+Takipçi ID: 1
+[194, 198, 202, 206]
+['fear', 'neutral', 'neutral', 'fear']
+2024-06-08 14:29:41
+
+Takipçi ID: 1
+[67, 74, 81, 88, 95, 102, 109, 116, 123, 130, 137, 144, 151, 158, 165, 172, 179, 186, 193, 200, 207, 214, 221, 228, 235, 239, 246, 253, 260, 267, 274, 280, 287, 294, 301, 308, 315, 322, 329, 336, 343, 349, 353, 357, 361, 365, 369, 373, 377, 378, 382, 386, 393, 400, 407, 414, 421, 428, 435, 442, 449, 453, 457, 461, 465, 469, 473, 477, 481, 485, 489, 493, 497, 501, 505, 509, 513, 517, 521, 525, 529, 533, 537, 541, 545, 549, 553, 557, 561, 565, 569, 573, 577, 581, 585, 589, 593, 597, 601, 605, 609, 613, 617, 620, 624, 628, 632, 636, 640, 644, 648, 652]
+['fear', 'neutral', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'neutral', 'neutral', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'neutral', 'neutral']
+2024-06-08 15:47:56
+
+Takipçi ID: 1
+[262, 268, 275, 282, 289, 296, 303, 310, 317, 324, 331, 338, 345, 352, 359, 366, 373, 380, 387, 394, 401, 408, 415, 422, 429, 436, 443, 450, 454, 458, 462, 466, 470, 474, 478, 482, 486]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'surprise', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-08 15:50:34
+
+Takipçi ID: 1
+[1181, 1185, 1189, 1193, 1197, 1201, 1205, 1209, 1213, 1217, 1221, 1225, 1229, 1233, 1236, 1239, 1242]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'fear']
+2024-06-08 16:04:48
+
+Takipçi ID: 1
+[243, 250, 257, 264, 271, 278, 285, 292, 299, 306, 313, 320, 327, 334, 341, 348, 355, 362, 369, 376, 383, 390, 396, 403, 410, 416, 423, 430, 437, 444, 450, 457, 464, 471, 477, 484, 490]
+['neutral', 'happy', 'neutral', 'neutral', 'neutral', 'happy', 'neutral', 'surprise', 'fear', 'surprise', 'surprise', 'fear', 'fear', 'fear', 'angry', 'fear', 'neutral', 'fear', 'fear', 'fear', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'fear', 'fear', 'fear', 'fear', 'fear', 'neutral', 'happy', 'sad', 'fear', 'fear', 'happy']
+2024-06-12 02:00:36
+
+Takipçi ID: 1
+[30, 34, 37, 41, 45, 49, 53, 57, 61, 65, 69, 73, 77, 81, 85, 89, 93, 97, 101, 105, 109, 113, 117, 121, 125, 129, 133, 137, 141, 145, 149]
+['sad', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-12 07:34:15
+
+Takipçi ID: 1
+[4, 10, 16, 22, 28, 35, 41, 48, 54, 61, 67, 73, 79, 85, 91, 97, 102, 108, 113, 119, 124, 129, 135, 141, 146, 152, 158, 164, 170, 176, 182, 188, 194, 200, 206, 212, 218, 224]
+['fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'angry', 'neutral', 'fear', 'sad', 'sad', 'angry', 'neutral', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'fear']
+2024-06-12 18:40:18
+
+Takipçi ID: 1
+[76, 80, 84, 88, 92, 96, 100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140, 144, 148, 152, 156, 160, 164, 168]
+['neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'fear', 'fear', 'neutral', 'neutral', 'fear', 'neutral', 'fear', 'fear', 'fear', 'neutral', 'neutral', 'fear', 'neutral', 'fear', 'neutral', 'fear', 'fear', 'fear']
+2024-06-12 19:02:09
+
+Takipçi ID: 1
+[50, 54, 58, 62, 66, 70, 74, 78, 82, 86, 90, 94, 98, 102, 106, 110, 114, 118, 122, 126, 130, 134, 138, 142, 146, 150, 154, 158]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'fear', 'fear', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-12 21:35:49
+
+Takipçi ID: 1
+[5, 12, 19, 26, 33, 40, 47, 54, 61, 68, 75, 82, 89, 96, 103, 110, 117, 124, 131, 138, 145, 152, 159, 166, 173, 180, 187, 194, 201, 208, 215, 222, 229, 236, 243, 250, 257, 264, 271]
+['neutral', 'neutral', 'neutral', 'happy', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'happy', 'happy', 'neutral', 'happy', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'fear', 'neutral', 'neutral', 'neutral', 'happy', 'fear', 'neutral', 'neutral', 'sad', 'fear', 'fear', 'happy', 'happy', 'happy']
+2024-06-12 22:12:30
+
+Takipçi ID: 1
+[39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79, 83, 87, 91, 95, 99, 103, 107, 111, 115, 119, 123, 127, 131, 135, 139, 143, 147]
+['neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'fear', 'angry', 'angry', 'angry', 'angry', 'angry', 'happy', 'happy', 'fear', 'fear', 'fear', 'neutral', 'neutral', 'fear', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-12 22:19:53
+
+Takipçi ID: 1
+[5, 12, 19, 26, 33]
+['neutral', 'neutral', 'neutral', 'happy', 'fear']
+2024-06-12 23:16:40
+
+Takipçi ID: 1
+[4, 11, 18, 25, 32, 39, 46, 53, 60, 67, 74, 81, 88, 95, 102, 109, 116, 123, 130, 137, 144, 151, 158, 164, 170, 177, 184, 190, 197, 204, 211, 217, 224, 231, 238, 245, 252, 259]
+['neutral', 'happy', 'happy', 'surprise', 'neutral', 'fear', 'fear', 'fear', 'neutral', 'sad', 'fear', 'sad', 'sad', 'sad', 'fear', 'sad', 'neutral', 'sad', 'neutral', 'happy', 'neutral', 'happy', 'neutral', 'happy', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'happy', 'neutral']
+2024-06-13 00:00:05
+
+Takipçi ID: 1
+[4, 11, 18, 25, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 85, 92, 99, 106, 113, 120, 127, 134, 141, 148, 155, 159, 163, 167, 171, 175, 179, 183, 187, 191, 195, 199, 203, 207, 211, 215, 219, 223, 227, 230, 234, 238, 242, 246, 250]
+['neutral', 'fear', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'fear', 'neutral', 'happy', 'neutral', 'neutral', 'fear', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'sad', 'surprise', 'surprise', 'neutral', 'neutral', 'fear', 'fear']
+2024-06-13 00:02:34
+
+Takipçi ID: 1
+[4, 11, 18, 25, 32, 39, 46, 53, 60, 67, 74, 81, 88, 95, 102, 109, 116, 123, 130, 137, 144, 151, 158, 165, 172, 179, 186, 192, 199, 206, 213, 220, 227, 234, 241, 248, 255, 262, 269, 276, 283, 290, 297, 304, 311, 318, 325, 332, 339, 346, 353, 360, 367, 374, 381]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'fear', 'neutral', 'sad', 'fear', 'sad', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'happy', 'happy', 'happy', 'fear', 'happy', 'fear', 'neutral', 'fear', 'fear', 'neutral', 'neutral', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear', 'sad', 'sad', 'happy', 'neutral', 'neutral', 'sad', 'sad', 'sad', 'sad', 'neutral', 'happy']
+2024-06-13 07:48:55
+
+Takipçi ID: 1
+[199, 203, 207, 211, 215, 219, 223]
+['fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-13 09:16:57
+
+Takipçi ID: 1
+[4, 8, 13, 18, 23, 27, 31, 36, 40, 45, 49, 54, 59, 65, 71, 77, 83, 88, 93, 98, 103, 108, 113, 118, 123, 128, 133, 138, 143, 148, 153, 158, 163, 168, 173, 178, 182, 188]
+['happy', 'happy', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'neutral', 'neutral', 'happy', 'neutral', 'happy', 'neutral', 'happy', 'neutral', 'neutral', 'surprise', 'surprise', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'fear', 'neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'neutral', 'happy', 'happy', 'happy', 'happy']
+2024-06-13 09:58:27
+
+Takipçi ID: 1
+[37, 40, 43, 46, 49, 52, 55, 58, 61, 64, 67, 70, 74, 78, 82, 86, 90, 94, 98, 102, 106, 110, 114, 118, 122, 126]
+['sad', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'neutral']
+2024-06-13 10:05:34
+
+Takipçi ID: 1
+[103, 107, 111, 115, 119, 123, 127, 131, 135, 139, 143, 147, 151, 155, 159]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad']
+2024-06-13 10:17:33
+
+Takipçi ID: 1
+[4, 10, 16, 22, 28, 33, 38, 44, 49, 53, 57, 61, 65, 69, 73, 77, 81, 85, 89, 93, 97, 101, 105, 109, 113, 117, 121, 125, 129, 133, 137, 141, 145]
+['neutral', 'neutral', 'happy', 'happy', 'neutral', 'surprise', 'neutral', 'neutral', 'happy', 'happy', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'happy', 'neutral', 'surprise', 'surprise', 'happy', 'happy', 'neutral', 'neutral', 'happy', 'sad', 'happy', 'sad', 'happy', 'happy', 'happy', 'sad', 'fear', 'fear']
+2024-06-13 11:25:25
+
+Takipçi ID: 1
+[4, 10, 16, 22, 28, 34, 40, 46]
+['neutral', 'neutral', 'happy', 'happy', 'sad', 'happy', 'neutral', 'neutral']
+2024-06-13 11:26:06
+
+Takipçi ID: 1
+[5, 11, 18, 25, 32, 39, 46, 52, 59, 65, 71, 78, 85, 92, 98, 105, 111, 117, 123, 130, 136, 143, 149, 156, 162, 169]
+['neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-13 11:29:28
+
+Takipçi ID: 1
+[2, 6, 10, 15, 19, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 81, 85, 89, 93, 97, 101, 105, 109, 113, 117, 121, 125, 129, 134, 138, 142, 146, 150, 154]
+['happy', 'neutral', 'neutral', 'happy', 'happy', 'surprise', 'fear', 'fear', 'surprise', 'surprise', 'fear', 'fear', 'happy', 'fear', 'neutral', 'happy', 'happy', 'happy', 'happy', 'neutral', 'fear', 'fear', 'fear', 'fear', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'fear', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'fear', 'neutral', 'neutral']
+2024-06-13 11:32:33
+
+Takipçi ID: 1
+[5, 12, 19, 26, 33, 40, 47, 54, 61, 68, 75]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'neutral', 'neutral', 'neutral']
+2024-06-13 11:54:27
+
+Takipçi ID: 1
+[8, 11, 13, 15, 18, 20, 22, 25, 28, 32, 35, 38, 41, 45, 48, 52, 55, 59, 63, 67, 70, 74, 78, 82, 86, 90, 93, 97, 100, 104, 108]
+['sad', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'sad', 'sad', 'sad', 'neutral', 'sad', 'sad', 'sad', 'sad', 'neutral', 'neutral', 'neutral', 'happy']
+2024-06-13 17:18:22
+
+Takipçi ID: 1
+[203, 207, 211, 215, 219, 223]
+['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+2024-06-14 12:41:10
+
+Takipçi ID: 1
+[5, 12, 19, 26, 33, 40, 47, 54, 61, 68, 75, 82, 89, 96, 103, 110, 117, 124, 131, 138, 145, 152, 159, 166, 173, 180, 187, 194, 201, 208, 215, 222, 229, 236, 243, 250, 257, 264]
+['neutral', 'happy', 'happy', 'happy', 'happy', 'neutral', 'happy', 'fear', 'happy', 'happy', 'neutral', 'happy', 'happy', 'fear', 'neutral', 'happy', 'neutral', 'neutral', 'fear', 'happy', 'fear', 'fear', 'sad', 'happy', 'angry', 'angry', 'neutral', 'happy', 'neutral', 'neutral', 'angry', 'neutral', 'happy', 'neutral', 'happy', 'neutral', 'happy', 'happy']
+2024-06-14 12:42:18
+
+Takipçi ID: 1
+[55, 59, 63, 67, 71, 75, 78, 82, 85, 88, 90, 93, 96, 98, 100, 103, 106, 109, 112, 115, 118]
+['happy', 'happy', 'happy', 'neutral', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'sad', 'neutral', 'happy', 'happy']
+2024-06-16 20:09:34
+
+Takipçi ID: 1
+[92, 96, 100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140, 144, 148, 152, 156, 160]
+['happy', 'happy', 'happy', 'happy', 'neutral', 'sad', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'sad', 'fear', 'fear', 'fear', 'fear', 'fear', 'fear']
+2024-07-19 17:26:20
+

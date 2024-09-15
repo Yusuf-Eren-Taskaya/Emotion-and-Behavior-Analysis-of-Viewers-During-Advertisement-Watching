@@ -1,0 +1,10 @@
+Takipçi ID: 3
+[4, 11, 18, 25, 32, 39, 46, 53, 60, 67, 74, 81, 88, 95, 102, 109, 116, 123, 130, 137, 144, 151, 158, 163, 170, 177, 184, 191, 198, 205, 212, 219, 226, 233, 240, 247, 254]
+['neutral', 'happy', 'fear', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'happy', 'happy', 'fear', 'happy', 'happy', 'happy', 'neutral', 'happy', 'neutral', 'neutral', 'happy', 'happy', 'happy', 'neutral', 'neutral', 'happy', 'neutral', 'neutral', 'surprise', 'neutral', 'happy', 'happy', 'sad', 'happy', 'neutral', 'fear', 'neutral', 'neutral', 'neutral']
+2024-06-14 12:43:25
+
+Takipçi ID: 3
+[152, 155, 158, 161, 164, 167]
+['happy', 'happy', 'happy', 'happy', 'happy', 'fear']
+2024-06-16 20:08:49
+
